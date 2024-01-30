@@ -342,7 +342,8 @@ img {
   fill: #f4f4fd;
 }
 
-.team-svg {
+.team-
+ {
   fill: #f4f4fd;
 }
   
@@ -700,11 +701,12 @@ color: #ffffff;
 .modal-button:hover, .modal-button:focus{
   background-color: #404bbf;
   border: none;
+  fill: #ffffff
 }
 
 .modal-svg{
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  transform: translateY(-50%);
+
 }
 
 .modal-svg:hover, .modal-svg:focus{
@@ -761,7 +763,7 @@ margin-bottom: 4px;
   position: absolute;
   left: 16px;
   top: 50%;
-  transform: translate(-50%);
+  transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #4D5AE5;
 }
