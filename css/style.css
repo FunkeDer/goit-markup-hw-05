@@ -760,7 +760,7 @@ margin-bottom: 4px;
 }
 
 .modal-input:focus + .modal-svg{
-  fill:#404bbf;
+    fill: #4D5AE5;
 }
 
 
